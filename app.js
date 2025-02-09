@@ -14,7 +14,6 @@ document.addEventListener("keypress", function(){
     levelUp();
 });
 
-
 function gameFlash(btn){
     btn.classList.add("gameflash");
     setTimeout(function(){
