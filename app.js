@@ -38,7 +38,6 @@ let randColor = btns[random];
 let ranBtn = document.querySelector(`.${randColor}`);
 
 
-
 // console.log(random);
 // console.log(randColor);
 // console.log(ranBtn);
