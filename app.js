@@ -71,6 +71,7 @@ function checkAns(idx){
 }
 
 
+
 function btnPress (){
     let btn = this;
     // console.log(this);
